@@ -49,5 +49,5 @@ Get-AzVM | ?{$_.LicenseType -like "Windows_Server"} | select ResourceGroupName, 
 For more details, check the documents below
 
 
-Explore Azure Hybrid Benefit for Windows VMs - Azure Virtual Machines | Microsoft Learn
-Explore Azure Hybrid Benefit for Linux VMs - Azure Virtual Machines | Microsoft Learn
+[Explore Azure Hybrid Benefit for Windows VMs - Azure Virtual Machines | Microsoft Learn](https://urldefense.com/v3/__https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing__;!!DVJaVafd6-os!M32Izk21gdGZjz1rp95FP4wMS1D050T2ElgXyBZX2zwXvvcv04N6SUbtqYmUBNSabgNVlnrwsTDm1yBW8UwHtOESH3P2yoKgY9-6PgA$)
+[Explore Azure Hybrid Benefit for Linux VMs - Azure Virtual Machines | Microsoft Learn](https://urldefense.com/v3/__https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux?tabs=ahbRhelPayg*2CahbNewPortal*2CahbExistingPortal*2Clicenseazcli*2CrhelAzcliByosConv*2Crhelazclipaygconv*2Crhelpaygconversion*2Crhelcompliance__;JSUlJSUlJQ!!DVJaVafd6-os!M32Izk21gdGZjz1rp95FP4wMS1D050T2ElgXyBZX2zwXvvcv04N6SUbtqYmUBNSabgNVlnrwsTDm1yBW8UwHtOESH3P2yoKgUYnA7Jc$)
