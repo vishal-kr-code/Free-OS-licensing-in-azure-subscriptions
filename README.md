@@ -7,7 +7,7 @@ Since this is a bulk request, it can only be handled through PS or CLI commands,
 •	Press Windows + R, type powershell, and press Enter.
 •	It is recommended to Run PowerShell as Administrator.
 ________________________________________
-2. Install or Import the Azure PowerShell Module
+2. ``Install or Import the Azure PowerShell Module``
 If this is your first time using Azure PowerShell, install the Az module:
 Install-Module -Name Az -Scope CurrentUser -Repository PSGallery -Force
 If the Az module is already installed, import it:
